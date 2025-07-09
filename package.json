@@ -1,0 +1,38 @@
+{
+  "name": "dietary-extension",
+  "version": "0.1.0",
+  "description": "Chrome extension to help users identify dietary restrictions and find suitable alternatives.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "plasmo dev",
+    "build": "plasmo build",
+    "package": "plasmo package"
+  },
+  "keywords": [
+    "chrome-extension",
+    "dietary-restrictions",
+    "vegetarian",
+    "vegan",
+    "food-safety"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "lucide-react": "^0.525.0",
+    "plasmo": "^0.90.5",
+    "postcss": "^8.5.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.332",
+    "@types/node": "^24.0.12",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "typescript": "^5.8.3"
+  }
+}

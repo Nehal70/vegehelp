@@ -1,0 +1,1 @@
+// This file will contain the web scraping logic for the extension. 

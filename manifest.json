@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Dietary Restriction Helper",
+  "version": "0.1.0",
+  "description": "Chrome extension to help users identify dietary restrictions and find suitable alternatives.",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://*/*"
+  ]
+} 
